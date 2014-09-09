@@ -1,22 +1,24 @@
-Bitly	1.0	1013	d7f2a911d8f6915c6e0f951dd401b786	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
-Dropbox	1.0	1010	7b0bb5047ba0f28b9212d70f56eaecaf	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
-ImageShack	1.2	1005	83597430bece1e05bc44c734d41374e4	Uploads images to ImageShack. Drop multiple images to create an album.
-Install Application	1.2	1011	cdaeaffb4167206dacee96e14b3bde3b	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
-Screensaver	1.0	1006	a31a9d3374dec01fa8a616de1c4739e8	Starts the screensaver.
-Bundle Script	1.0	1001	59f89f0749e59b9ab992efc7a02e94e4	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
-Finder Path	1.1	1003	329ec3e657bdd21e15a85416a1f09d47	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
-Google Drive	1.5	1020	061f6ab32bb50963be669cb6a4756cee	Uploads files to Google Drive.
-Image Search	1.0	1022	5700ce04458ae512fbf14f7316e5963d	Dropped images will be searched for using Google Image Search.
-Slack	1.1	1019	c891dcb71a340d14b5ce1ff990cd2d8d	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
-Kaleidoscope Diff	1.0	1018	c608701638aa5e74df9e91e1e761c287	Drag two or more files to diff them with Kaleidoscope
-SCP Upload	1.0	1009	cd089bd62c5e330b27a659b676ee6b35	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
-Print	1.1	1012	e5d8fa21a154d5a67ebc04fdf6a19397	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
-Compress Image	1.1	1008	13643adc8197aa8264a5989662b44bd4	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
-TwitPic	1.0	1007	fdcc05ccdd18cb3f13834fd70014b214	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
-Say Text	1.0	1023	073af2a3387dfbbdc732b9be60b23390	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
-Desktop Picture	1.0	1002	74ed29f379be60dc3c3f7a9916eb8c91	A dropped image will be set as the current desktop background.
-Araxis Merge	1.0		1a970667df110cf122a24d165d654d63	Compare files and folders via Araxis Merge (and some AppleScript)
-Flickr Upload	1.0	1004	c5d436470691c441d7cf0e08346bbde1	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
-Rackspace Cloud Files	1.6	1017	4001de8873bdb1476107f37d822607e1	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
-Send iMessage With Attachment to Phone Number	1.1	1021	71452e9db8c04b262670c7b8a9f4b4bc	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
-1024px	1.0		a914e8fef359cd5598007ff4a977ccee	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
+Bitly	1.0	1013	10bda5d97ae4727cdee9a6f705f8bea0	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
+Dropbox	1.0	1010	59a510b9a304d6d850cb80527967534b	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
+ImageShack	1.2	1005	6c248d3be12be6933711a033c88ea7a4	Uploads images to ImageShack. Drop multiple images to create an album.
+Install Application	1.2	1011	d6ff47375ce1f09511e1737ca3fab01f	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
+Pushover	1.0		763ee3794ef50f1ddda6894d10b67eb1	Send clipboard content via Pushover (https://pushover.net/).
+Screensaver	1.0	1006	e886a466e93b708e8034eb7b41f9e6d5	Starts the screensaver.
+Bundle Script	1.0	1001	f829e48d416a9963056f31e7ad6d81fd	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
+Finder Path	1.1	1003	1062c46b10903bfd97677c909b71a843	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
+Google Drive	1.5	1020	d8ae801cf31bd510aef2ec103e752ec6	Uploads files to Google Drive.
+Image Search	1.0	1022	ead95b1f5f09e5fcba2986ae1e1a6239	Dropped images will be searched for using Google Image Search.
+Slack	1.1	1019	d33b0ff4318b1bdaa1e8cf816bf6efa0	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
+Goo.gl	1.0		f98c7b749d9677707f3663742406f06d	Dropped URL will be converted to a short Goo.gl URL. To use without authentification, enter any letter in the username field. Drag a shorten URL with command key pressed to expand.
+Kaleidoscope Diff	1.0	1018	9f11eb8658751c9c66c60c17c3d72b1f	Drag two or more files to diff them with Kaleidoscope
+SCP Upload	1.0	1009	d7656a9d2fefc2dc38308974cfa4ea4c	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
+Print	1.1	1012	0381eac7ccdd6c9d29cb38004f74a3e4	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
+Compress Image	1.1	1008	2b974d214b13b5840ed495a9f5653394	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
+TwitPic	1.0	1007	f99db8391790388f44fab8135b42928b	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
+Say Text	1.0	1023	7b5c15bd432958db4e34e6328c8670a5	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
+Desktop Picture	1.0	1002	ba42c361b70daa03959c473b2f3bf344	A dropped image will be set as the current desktop background.
+Araxis Merge	1.0		d5eaaff62b33cd26de3887d70987a40b	Compare files and folders via Araxis Merge (and some AppleScript)
+Flickr Upload	1.0	1004	9444b44f5d1a54dfd41c57f28da69993	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
+Rackspace Cloud Files	1.6	1017	f9e9a2ab23d7e2295a6a07a75d1329f9	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
+Send iMessage With Attachment to Phone Number	1.1	1021	05d4d3bc0dbfa41ab9056c1527e9555c	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
+1024px	1.0		fdcfaaf42aacad5a9fb035ef653096b3	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
