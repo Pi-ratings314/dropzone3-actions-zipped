@@ -1,31 +1,31 @@
-Bitly	1.0	1013	829051821b9b42ae56767fefb551771e	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
-Dropbox	1.1	1010	21c2c7c6b7dacd244c09f4dc8e4c49ea	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
-ImageShack	1.2	1005	411bd5cfc395eee417d6bd9cea5b3916	Uploads images to ImageShack. Drop multiple images to create an album.
-Install Application	1.3	1011	fb9175a00c06d5a573699f38e43f7e9a	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
-Pushover	1.0		029487730a17bdd38a165583de5dcf67	Send clipboard content via Pushover (https://pushover.net/).
-Screensaver	1.0	1006	bf78ef0e5708bb2e7603348cf8f4b20c	Starts the screensaver.
-Bundle Script	1.0	1001	3b0b386434edd13b9b33b563b1a3ce77	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
-YouTube	1.5	1026	5b42a7fcb6db91c0996fb104f374ede9	Uploads dragged videos to YouTube. \n\nYou can select the privacy level and after upload it opens the edit page of the video in the default browser.
-Finder Path	1.1	1003	3a0be1d3b0d13240688a7812336a3d4d	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
-Strip PDF Front	1.0		52147e7e41284365aeb3aaea9cd4c68a	This actions takes PDF files, copies out the front cover picture, and scales it to the given size and the type given. Set the width and extension by clicking on the action. It uses the ImageMagick programs and the XPDF programs. Both are installable using HomeBrew. "brew install imagemagick" and "brew install xpdf".
-Google Drive	1.7	1020	78da46605fbed0497df4b82a21ce603b	Uploads files to Google Drive.
-Pushbullet	1.0		d5c552c0fc8bf62b67a17c520b6304f2	Push file to your Pushbullet. Holding `Option` when dropping reopens the device-select dialog.
-Image Search	1.0	1022	0702d4693fdc32b387f6176253196ff4	Dropped images will be searched for using Google Image Search.
-Slack	1.1	1019	fa8abf4486a68705966710c36d733422	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
-Goo.gl	1.4	1024	8dbae089e46d7509465316195f51500c	Dropped URLs will be converted to short Goo.gl URLs and short Goo.gl URLs will be expanded. When clicked, the action will attempt to do the same with any URLs present in clipboard. \n\nAuthorization is optional, use it only if you want to track the shortened URLs using your Google account.
-Kaleidoscope Diff	1.1	1018	2701ec22717f5b6090b9fb4a858dfa2c	Drag two or more files to diff them with Kaleidoscope
-SCP Upload	1.0	1009	9d43c70bfc094bf93b0ee3e21a46a681	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
-Print	1.1	1012	b25719e75e3a99ab983e85db1e175057	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
-Compress Image	1.1	1008	89dc0f6604b03b80c63828a491a8f024	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
-TwitPic	1.0	1007	22ce48d9a8cc4a026bc379c32fe65360	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
-Say Text	1.0	1023	6a5dc67c5d01fc988abf2219eae46211	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
-Renren	2.0		d8b5e6016c5e2896f2b5f320983da39c	点击发布人人状态、拖拽上传人人图片。使用前请点击以下链接查看使用说明。
-Desktop Picture	1.0	1002	15245c08a00f93210645b175ac6539b2	A dropped image will be set as the current desktop background.
-Strip PDF from Zip	1.0		d48e0f25d96d928c1ece836371221b37	This actions takes zip files,  and removes the PDF. It will give the PDF the same name as the zip file and delete the zip file.
-Araxis Merge	1.0		460049ae2aa9a5d7586d9ac2ed85c8f1	Compare files and folders via Araxis Merge (and some AppleScript)
-Zip Files	1.1	1025	a350e874639a4117539f6c17f283e1d5	Zips up the dropped files or folders and places the zip file in the chosen folder.
-Flickr Upload	1.0	1004	bf6e662694d8c6c48d5c6e74c5ad6eef	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
-Rackspace Cloud Files	1.7	1017	740131c059cb3c3c36fe9fd36117fb2f	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
-Send iMessage With Attachment to Phone Number	1.2	1021	3023627d6e3b7e477dffde75b067c457	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
-1024px	1.0		152d88de0f728dc687d60f1708bf0be7	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
-Unpack	1.0	234985238238452835	812e7682c0cba2412856a10552402f99	This action unpack zip files in to a specified directory.
+Bitly	1.0	1013	b3a4d64dc50da5b83f77cd7c940263ad	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
+Dropbox	1.1	1010	c00bd441de656d957c2cbe5ce1a871e8	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
+ImageShack	1.2	1005	f3825beb3f83c406d07b21805ebae9b1	Uploads images to ImageShack. Drop multiple images to create an album.
+Install Application	1.3	1011	507350b7b398e9d8c7788c2444323803	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
+Pushover	1.0		109e78bdb6cb08666af27e59cea2e33b	Send clipboard content via Pushover (https://pushover.net/).
+Screensaver	1.0	1006	e75cd502d3b83984f6ec9bdd006e4c5a	Starts the screensaver.
+Bundle Script	1.0	1001	fbcbe085535b92ccad436b65f9c21a7e	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
+YouTube	1.5	1026	d90c281e04f570732cdc1be30ed44a9c	Uploads dragged videos to YouTube. \n\nYou can select the privacy level and after upload it opens the edit page of the video in the default browser.
+Finder Path	1.1	1003	a30f5ac9fbf06e7be266f64a052fb468	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
+Strip PDF Front	1.0		7d5dad664acd2b44acf5191fc7fa5538	This actions takes PDF files, copies out the front cover picture, and scales it to the given size and the type given. Set the width and extension by clicking on the action. It uses the ImageMagick programs and the XPDF programs. Both are installable using HomeBrew. "brew install imagemagick" and "brew install xpdf".
+Google Drive	1.7	1020	6196dc5485a39a2041c0e77cd6d1b8ac	Uploads files to Google Drive.
+Pushbullet	1.0		a9343de285d9c468f79c0f82f1b9ecfa	Push file to your Pushbullet. Holding `Option` when dropping reopens the device-select dialog.
+Image Search	1.0	1022	f8ec8ad3aba1f2d6b5d477d6391fbf52	Dropped images will be searched for using Google Image Search.
+Slack	1.1	1019	9f8bd89837be3d866f30caee843f8dcf	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
+Goo.gl	1.4	1024	1d40fc1985408d7efd96d2ad7ce42f8f	Dropped URLs will be converted to short Goo.gl URLs and short Goo.gl URLs will be expanded. When clicked, the action will attempt to do the same with any URLs present in clipboard. \n\nAuthorization is optional, use it only if you want to track the shortened URLs using your Google account.
+Kaleidoscope Diff	1.1	1018	ee99882f632acee0e8e8abf6c1a4d1ab	Drag two or more files to diff them with Kaleidoscope
+SCP Upload	1.0	1009	86e4973555d3b35a2b5e9de35c2c3035	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
+Print	1.1	1012	90e104c83baa7368be84220bcd9005a2	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
+Compress Image	1.1	1008	756d66a083adc57260b5c54765115672	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
+TwitPic	1.0	1007	aee442100bcba2fba418bebb7c7aaf26	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
+Say Text	1.0	1023	0e8dd5b340b076ec3e97cb9f3bb83672	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
+Renren	2.0		3a924d8621067864be38722b43cfac69	点击发布人人状态、拖拽上传人人图片。使用前请点击以下链接查看使用说明。
+Desktop Picture	1.0	1002	c795053ddf5f9a3716a4c74819f7d433	A dropped image will be set as the current desktop background.
+Strip PDF from Zip	1.0		cd9a22b0d1d3eb6f4a478e1f9785212b	This actions takes zip files,  and removes the PDF. It will give the PDF the same name as the zip file and delete the zip file.
+Araxis Merge	1.0		e112b93a764da9a3d7578b55a9a16c49	Compare files and folders via Araxis Merge (and some AppleScript)
+Zip Files	1.1	1025	0e5007053ef3038584f3647822c97496	Zips up the dropped files or folders and places the zip file in the chosen folder.
+Flickr Upload	1.0	1004	e188d5c639827372754de626dbd62a25	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
+Rackspace Cloud Files	1.7	1017	98b44bcae19fbdd5cd0e84edcb18523d	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
+Send iMessage With Attachment to Phone Number	1.2	1021	33959f3fff1a57c9016f2271cff4a4bb	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
+1024px	1.0		5e274541069377abd8e63bf26475546c	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
+Unpack	1.0	234985238238452835	98ecd46fcee46af2b245d7f199821565	This action unpack zip files in to a specified directory.
