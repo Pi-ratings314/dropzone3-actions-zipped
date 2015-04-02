@@ -1,38 +1,38 @@
-Open Terminal at Path	1.2	1030	855afb012724f02ec612efa7b979bd66	Drop a file or folder on this action to open a new Terminal window at the files path. You can also drop a textual path.
-Bitly	1.0	1013	691129e802873c21e5b26b017875ed8d	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
-Dropbox	1.2	1010	205e09bbe5e39b5b2f7ce541eb170c66	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
-ImageShack	1.2	1005	ea8c2540dfd1fd7dc4a2eb7072c29ffd	Uploads images to ImageShack. Drop multiple images to create an album.
-Install Application	1.4	1011	bfe3a9e9f160d9715e4a97f36c0c14a7	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
-Pushover	1.1		9153001c6baaef8c1b6082815618fc44	Send message via a Pushover notification (https://pushover.net/). Hold Alt Key to select a device or Shift Key to refresh devices list. 
-Screensaver	1.0	1006	26d409e90c43a7da418d6eee2b180431	Starts the screensaver.
-Bundle Script	1.1	1001	d2264fed74114abdf9f21f54e3f9aa5e	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
-YouTube	1.6	1026	80e1830312459e50af7d6d134878c8a2	Uploads dragged videos to YouTube. \n\nYou can select the privacy level and after upload it opens the edit page of the video in the default browser.
-Finder Path	1.2	1003	46788a07a58f5a382af4647b7f85f36c	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
-Strip PDF Front	1.0		c342f1580b0f90ced0bd48ed756c6e59	This actions takes PDF files, copies out the front cover picture, and scales it to the given size and the type given. Set the width and extension by clicking on the action. It uses the ImageMagick programs and the XPDF programs. Both are installable using HomeBrew. "brew install imagemagick" and "brew install xpdf".
-Google Drive	1.7	1020	71dc87d632ebb2cb4cb5fdb1368888cb	Uploads files to Google Drive.
-Mail Link	1.1	1029	d648368d9da8c94ec7b48d590085e6bd	Drag and drop a link onto this action and a new email will be created in Mail.app with the link.
-KDiff3	1.0	1033	aa43a73785af37727f442f0bbc093074	Drag 2 or 3 files or folders to diff them with KDiff3. Hold a modifier key (⌘, ⌥, ⌃, or ⇧) while dragging to merge the items.
-Pushbullet	1.0	1032	99fc3d16a33eb3d8b94b4aed7e854cc3	Push file to your Pushbullet. Holding `Option` when dropping reopens the device-select dialog.
-Image Search	1.0	1022	e6beeff16abf5e1beef1e340d3573996	Dropped images will be searched for using Google Image Search.
-Slack	1.1	1019	bbab94bc42c506588f64a2f3361def13	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
-Goo.gl	1.4	1024	b8352c30ce418a80c6fc947361d01ed3	Dropped URLs will be converted to short Goo.gl URLs and short Goo.gl URLs will be expanded. When clicked, the action will attempt to do the same with any URLs present in clipboard. \n\nAuthorization is optional, use it only if you want to track the shortened URLs using your Google account.
-Kaleidoscope Diff	1.1	1018	04d58c76e0aefb5275979854c7f4fef9	Drag two or more files to diff them with Kaleidoscope
-SCP Upload	1.3	1009	f160dc80a58a416934ef9181147b8ea3	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
-Print	1.1	1012	4b6d34238b5d4a65baf5af7bb3096203	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
-Boxcar	1.0		9e177c7984672c6f25a2425578073ca4	Send message to Boxcar App (https://boxcar.io/).
-Clone Git Repository	1.2	1031	37e4107339b43d3689d0fc991b4657d0	Drag the URL of a git repository onto this action and it will be cloned into the selected folder.\n\nHold the command key to select a different destination folder.
-Compress Image	1.1	1008	cb40c707b4b691f55365a78f74967ede	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
-TwitPic	1.0	1007	62ae7c49ac8611b8981ff9bfd147fe9c	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
-Say Text	1.0	1023	c020492a67f9381e6340f8bcaad866b7	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
-Make GIF	1.0		38529fcf34af3e3b43b7892299dcdde3	This action converts videos to GIFs using ffmpeg
-Renren	2.0		638f00f8d9fd12ccf345d5050b8280df	点击发布人人状态、拖拽上传人人图片。使用前请点击以下链接查看使用说明。
-Desktop Picture	1.0	1002	b4b399f5b0b3212f73bf2eeca83b24aa	A dropped image will be set as the current desktop background.
-Strip PDF from Zip	1.0		d6f3924a90f63a85b19f2909eaf9fda4	This actions takes zip files,  and removes the PDF. It will give the PDF the same name as the zip file and delete the zip file.
-Create DMG File	1.0	1028	bb5d47d9fcba0509355527eca1229b21	Creates a DMG file with dropped files and places it on the Desktop.\nHolding the Option key while dragging creates an encrypted DMG.
-Araxis Merge	1.0		0bbc0080673f989d54d6bb228b481adf	Compare files and folders via Araxis Merge (and some AppleScript)
-Zip Files	1.2	1025	f74a9ba6641135a205f3069e69e50c79	Zips up the dropped files or folders and places the zip file in the chosen folder.
-Flickr Upload	1.0	1004	ca795dc2234a8a113af1511178f9d9fe	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
-Rackspace Cloud Files	2.0	1017	0b0652b0e6ece7b36f5061ad7948536c	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
-Send iMessage With Attachment to Phone Number	1.3	1021	8985ce96a4bb0d74a1662a88e8c38d11	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
-Sleep	1.0	1027	18e76bfdbd83f4e26d709fe842b16150	Puts your Mac to sleep.
-1024px	1.0		fd4f9c6f16aba3a29aebf034316d06e2	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
+Open Terminal at Path	1.2	1030	7196bbd468e287a6142773798640240e	Drop a file or folder on this action to open a new Terminal window at the files path. You can also drop a textual path.
+Bitly	1.0	1013	7028827f40dd0328f06b339433c7a8e8	A dropped URL will be converted to a Bit.ly URL. Password is your API key which can be found at http://bit.ly/a/your_api_key
+Dropbox	1.2	1010	7d28d7186da38c5a468161bdc0571ddc	Share files via Dropbox by copying them to your Dropbox Public folder and putting the URL on the clipboard.
+ImageShack	1.2	1005	6971929548c52960e12754b01304a69e	Uploads images to ImageShack. Drop multiple images to create an album.
+Install Application	1.4	1011	a2f715a102864b5967bc74e9e0f85fd0	Drop an application disk image and it will be mounted, installed and ejected. The application will then be launched.
+Pushover	1.1		bb4afbad3675050f706f0c3734046b38	Send message via a Pushover notification (https://pushover.net/). Hold Alt Key to select a device or Shift Key to refresh devices list. 
+Screensaver	1.0	1006	68e7a6d30719ef7476e7a8f3af33ab02	Starts the screensaver.
+Bundle Script	1.1	1001	6d06c73d2f5eacbf97faa65e817eaf89	Converts dropped .dropzone script files written for Dropzone 2 into shiny new .dzbundle packages for Dropzone 3.\n\nYou must choose a destination folder for the bundle output.
+YouTube	1.6	1026	ae03d994f9d6e11df49e8aceb27156aa	Uploads dragged videos to YouTube. \n\nYou can select the privacy level and after upload it opens the edit page of the video in the default browser.
+Finder Path	1.2	1003	beef695234a83d23a202716e5fdb00d4	Click on this action to copy the path of the currently selected item in the Finder to the clipboard.\n\nYou can also drag files onto it and it will put the paths of the dragged files on the clipboard.
+Strip PDF Front	1.0		6122e9ed1f120b362e0c3e773f69d03c	This actions takes PDF files, copies out the front cover picture, and scales it to the given size and the type given. Set the width and extension by clicking on the action. It uses the ImageMagick programs and the XPDF programs. Both are installable using HomeBrew. "brew install imagemagick" and "brew install xpdf".
+Google Drive	1.7	1020	4cce6cb1a011f83a155a06817885b621	Uploads files to Google Drive.
+Mail Link	1.1	1029	2a05227614375d00e1e61959d4c970ef	Drag and drop a link onto this action and a new email will be created in Mail.app with the link.
+KDiff3	1.0	1033	76dd75502df263d0cb0619c05d3a5e00	Drag 2 or 3 files or folders to diff them with KDiff3. Hold a modifier key (⌘, ⌥, ⌃, or ⇧) while dragging to merge the items.
+Pushbullet	1.0	1032	53e53e961eb1ed614d5fe1c7e0121e24	Push file to your Pushbullet. Holding `Option` when dropping reopens the device-select dialog.
+Image Search	1.0	1022	1a42344d055458c272538b5af8948d64	Dropped images will be searched for using Google Image Search.
+Slack	1.1	1019	8f7b88a651940258ef99aa73e270378e	Uploads files to a Slack channel \n\nIn order to get the token needed for the API Key field below, login at https://slack.com with your account and afterwards go to https://api.slack.com. Scroll down and copy the token value from the Authentication section in the API Key below.
+Goo.gl	1.4	1024	8a6a220df5f69f97640fff3d95501d2d	Dropped URLs will be converted to short Goo.gl URLs and short Goo.gl URLs will be expanded. When clicked, the action will attempt to do the same with any URLs present in clipboard. \n\nAuthorization is optional, use it only if you want to track the shortened URLs using your Google account.
+Kaleidoscope Diff	1.1	1018	a1bc0ae718f4f1b826fdaa4010271a33	Drag two or more files to diff them with Kaleidoscope
+SCP Upload	1.3	1009	679e3f5deea5038e818afced9e97d01e	Allows files to be uploaded to a remote SSH server. If the option key is held down then files are zipped up before uploading.
+Print	1.1	1012	2eaa9df9822fc59ad3bdc2f58cd4a158	Dropped files will be printed. If you have multiple printers, you will be prompted for which printer you wish to use.\n\nNote this action is intended as just a quick and dirty way to quickly print an image, PDF, Pages or MS Office document. It is not intended to let you configure print settings.
+Boxcar	1.0		c2f5b7d138787dd798ca3f635b1344fc	Send message to Boxcar App (https://boxcar.io/).
+Clone Git Repository	1.2	1031	4c248ddf6da129d1609e5d27e776bcd1	Drag the URL of a git repository onto this action and it will be cloned into the selected folder.\n\nHold the command key to select a different destination folder.
+Compress Image	1.1	1008	3f82e9c4af4c96337023966f2fa450b4	This destination is for compressing the images given.\n\nYou must have the imagemagick library installed. It is best to install it using HomeBrew (http://brew.sh/).
+TwitPic	1.0	1007	133eefe9e8421bd6e14bc084593fa3e2	Share photos via the TwitPic service. Copies the TwitPic URL to the clipboard. Does not tweet automatically.
+Say Text	1.0	1023	3ab629d67c4e0ab1d055af0e47b1f0e5	Text dragged onto this action will be read aloud to you.\nClick the action to read text on the clipboard.
+Make GIF	1.0		08a195f86fe3ae6e43f8046ed2d2ff3d	This action converts videos to GIFs using ffmpeg
+Renren	2.0		6ab262952dc04c1904413dcf176a4800	点击发布人人状态、拖拽上传人人图片。使用前请点击以下链接查看使用说明。
+Desktop Picture	1.0	1002	19731f3c020f6bed15f4fa92511a47cd	A dropped image will be set as the current desktop background.
+Strip PDF from Zip	1.0		64bfcd7b19576f982f1200baf7d863d8	This actions takes zip files,  and removes the PDF. It will give the PDF the same name as the zip file and delete the zip file.
+Create DMG File	1.0	1028	874c9ec5037156c0f091d1a30411ca2e	Creates a DMG file with dropped files and places it on the Desktop.\nHolding the Option key while dragging creates an encrypted DMG.
+Araxis Merge	1.0		961a013a865546b2f8969abf2bba7173	Compare files and folders via Araxis Merge (and some AppleScript)
+Zip Files	1.2	1025	32340847ab313354ab5cb6ed3575676e	Zips up the dropped files or folders and places the zip file in the chosen folder.
+Flickr Upload	1.0	1004	dcab92008f1f4a1d46f764a1973991bb	Allows images to be uploaded to Flickr. Holding down the option key while dragging copies the direct image URL.
+Rackspace Cloud Files	2.0	1017	43b7972024530cd62d7759eb011e3ccb	Uploads files to a Rackspace Cloud Files account container.\n\nYou will be prompted for the region and container on your first upload. Click the action to change the configured container.
+Send iMessage With Attachment to Phone Number	1.3	1021	330d9443185b198990c13125fd4c67a6	Send an iMessage with a file attachment to a preset phone number.\n\nClick the action in the grid to change the phone number.
+Sleep	1.0	1027	6b477c10b7343de6a5ecf3d5bff2a840	Puts your Mac to sleep.
+1024px	1.0		5c76aeb3d69b4d5cb5d16e1d53dbe006	Resize all images to a maximum width of 1024 pixels.  Uses built in Mac Commands.  No prerequisites to install.
